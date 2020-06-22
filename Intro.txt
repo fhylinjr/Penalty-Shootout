@@ -1,0 +1,4 @@
+Hello there! Welcome to the Penalty Shootout Game!
+There are several directions to place your kick.
+They are represented as TL-TopLeft, ML-MiddleLeft, BL-BottomLeft, TM-TopMiddle, M-Middle, BM-BottomMiddle, TR-TopRight, MR-MiddleRight, BR-BottomRight.
+As you select your spot the computer(goalie) would randomly guess a spot to attempt a save.
